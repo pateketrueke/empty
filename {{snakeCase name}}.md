@@ -1,5 +1,5 @@
 # {{name}}
 
 {{#nested}}
-## {{upperCase example}}
+## {{headerCase example}}
 {{/nested}}
